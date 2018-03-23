@@ -1,20 +1,31 @@
-.intro { 
-    background-color: green;
+p { 
+    background-color: orange;
 }
 p {
     margin-top: 50px;
     margin-bottom: 50px;
     margin-right: 150px;
-    margin-left: 80px;
+    margin-left: 150px;
 }
-
+div {
+    padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+}
 body { 
-    background-color: blueviolet;
+    background-color: blue;
 }
-.rotateimg180 {
-    -webkit-transform:rotate(180deg);
-    -moz-transform: rotate(180deg);
-    -ms-transform: rotate(180deg);
-    -o-transform: rotate(180deg);
-    transform: rotate(180deg);
-  }
+h1 { 
+    background-color: yellow;
+
+}
+h2 { 
+    background-color: yellow;
+}
+h3 { 
+    background-color: yellow;
+}
+#firstname {
+    font-family: "Arial Verdana", Arial, sans-serif;
+}
